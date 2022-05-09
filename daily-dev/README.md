@@ -4,4 +4,4 @@
 
 This is a demo of the [daily.dev](https://app.daily.dev/) website, built with React.
 
-Here's a video where I show how I built this from scratch...
+Here's a video where I show how I built this from scratch: [daily.dev clone with React](https://youtu.be/mz0zxDy0FjE)
